@@ -8,12 +8,14 @@ ELS Siren Cutout is a simple script to prevent leaving a siren on when exiting a
 - Emergency Lighting System
 
 ## Installation: ##  
+1. 
+2. 
   
 ## Current features: ##  
 - Recognise when exiting a vehicle with Stage 3 lighting active and toggle lights off and on (J key)  
 
 ## Planned features: ##  
-- Ability to set the keybinds to indiidual server configurations
+- Ability to set the keybinds to individual server configurations
   
 ## Version history: ##  
 0.1.0.0 (Pre release)
@@ -23,4 +25,4 @@ ELS Siren Cutout is a simple script to prevent leaving a siren on when exiting a
 Developed and tested on the <FiveM Server Name/Link here>.
   
 ## SourceCode: ##  
-https://github.com/Waynieoaks
+https://github.com/waynieoaks
