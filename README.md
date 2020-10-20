@@ -18,7 +18,7 @@ ELS Siren Cutout is a simple script to prevent leaving a siren on when exiting a
 - Ability to set the keybinds to individual server configurations
   
 ## Version history: ##  
-0.1.0.0 (Pre release)
+0.1.0.0 (Pre release)  
 	- Initial coding shell
 
 ## Credits: ##  
