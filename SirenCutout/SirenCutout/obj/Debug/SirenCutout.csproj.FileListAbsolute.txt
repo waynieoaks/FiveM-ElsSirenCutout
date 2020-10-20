@@ -1,0 +1,7 @@
+E:\repositories\FiveM-ElsSirenCutout\SirenCutout\SirenCutout\bin\Debug\SirenCutout.net.dll
+E:\repositories\FiveM-ElsSirenCutout\SirenCutout\SirenCutout\bin\Debug\SirenCutout.net.pdb
+E:\repositories\FiveM-ElsSirenCutout\SirenCutout\SirenCutout\bin\Debug\CitizenFX.Core.dll
+E:\repositories\FiveM-ElsSirenCutout\SirenCutout\SirenCutout\obj\Debug\SirenCutout.csprojAssemblyReference.cache
+E:\repositories\FiveM-ElsSirenCutout\SirenCutout\SirenCutout\obj\Debug\SirenCutout.csproj.CopyComplete
+E:\repositories\FiveM-ElsSirenCutout\SirenCutout\SirenCutout\obj\Debug\SirenCutout.net.dll
+E:\repositories\FiveM-ElsSirenCutout\SirenCutout\SirenCutout\obj\Debug\SirenCutout.net.pdb
